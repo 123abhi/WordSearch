@@ -1,4 +1,0 @@
-WordSearch
-==========
-
-Word Search
