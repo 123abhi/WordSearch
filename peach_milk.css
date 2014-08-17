@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PeachMilkRegular';
+    src: url('peach_milk.eot');
+    src: url('peach_milk.eot') format('embedded-opentype'),
+         url('peach_milk.woff') format('woff'),
+         url('peach_milk.ttf') format('truetype'),
+         url('peach_milk.svg#PeachMilkRegular') format('svg');
+}
